@@ -1,0 +1,12 @@
+11 11
+b, 15/b, 24/b, b, b, 10/b, 6/b, b, 25/b, 20/b, b
+b/15, w, w, 11/b, b/4, w, w, 15/17, w, w, 6/b
+b/18, w, w, w, b/22, w, w, w, w, w, w
+b, 6/4, w, w, 17/b, 14/b, b/29, w, w, w, w
+b/4, w, w, 25/16, w, w, 23/7, w, w, 31/b, b
+b/28, w, w, w, w, w, w, 11/3, w, w, 4/b
+b, b/17, w, w, 6/24, w, w, w, w, w, w
+b, 9/b, 12/8, w, w, b/17, w, w, 14/12, w, w
+b/14, w, w, w, w, 15/b, 3/b, b/9, w, w, 9/b
+b/21, w, w, w, w, w, w, b/ 24, w, w, w
+b, b/3, w, w, b/11, w, w, b, b/4, w, w
